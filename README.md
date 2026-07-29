@@ -21,29 +21,29 @@ This project creates an AWS EC2 instance using Terraform.
 
 ## Commands
 
-Initialize Terraform
+1.Initialize Terraform
 
-```bash
+
 terraform init
-```
 
-Preview changes
 
-```bash
+2.Preview changes
+
+
 terraform plan
-```
 
-Create resources
 
-```bash
+3.Create resources
+
+
 terraform apply
-```
 
-Delete resources
 
-```bash
+4.Delete resources
+
+
 terraform destroy
-```
+
 
 ## Resources Created
 
