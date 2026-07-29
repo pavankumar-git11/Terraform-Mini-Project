@@ -1,0 +1,5 @@
+aws_region      = "ap-south-2"
+ami_id          = "ami-0c8dc555a7e1ca7a3"
+instance_type   = "t3.medium"
+key_name        = "terraform-key"
+public_key_path = "my-key.pub"
